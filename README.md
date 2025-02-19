@@ -8,10 +8,7 @@ Information system representing learning service, like udemy or coursera.
 - Notifications (emails/SMS) are sent for course updates.
 
 ### Installing
-- Linux
 TODO
-- Windows
-- Mac
 
 ### Usage
 TODO
@@ -20,3 +17,4 @@ TODO
 If you, for any reason, have a problem compiling sources, understanding the
 code, or just have a suggestion open an issue on github, or write me an email.
 
+Contributions are welcome.
